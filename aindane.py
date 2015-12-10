@@ -9,7 +9,7 @@ __author__ = 'srlu'
 class Aindane(object):
     """Implementation of AINDANE
 
-    Adaptive and
+    Adaptive and integrated neighborhood-dependent approach for nonlinear enhancement of color images
 
     Attributes:
         img_bgr: The image to be processed, read by cv2.imread
